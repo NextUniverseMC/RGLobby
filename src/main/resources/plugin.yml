@@ -1,0 +1,6 @@
+name: RGLobby
+version: 1.0
+description: Provides a custom backend for NextUniverse
+author: TheDiamondPicks
+website: http://nextuniverse.ml
+main: ml.nextuniverse.rglobby.Main
